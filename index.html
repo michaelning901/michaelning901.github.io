@@ -25,9 +25,33 @@
 							<li><a href="#intro" class="active-locked">About</a></li>
 							<li><a href="#first">Mentors</a></li>
 							<li><a href="#second">Join Us</a></li>
-							<li><a href="">Log In</a></li>
+							<li>
+                                <a id="myBtn0">Log In</a>
+                                <div id="myModal0" class="modal">
+                                  <div class="modal-content" id="loginmodalcontent">
+                                    <span class="close0">&times;</span>
+                                    <h3 style="text-align:left;" id="LogInHeading">Log In</h3>
+                                    <section>
+                                            <form method="post" action="#">
+                                                    <div class="row gtr-uniform">
+                                                        <div class="col-12">
+                                                            <input class="col-12" type="text" name="demo-name" id="demo-name" value="" placeholder="Username" />
+                                                        </div>
+                                                        <div class="col-12">
+                                                            <input class="col-12" type="password" name="demo-password" id="demo-name" value="" placeholder="Password" />
+                                                        </div>
+                                                    </div>
+                                                    <div class="actions" id="logger">
+														<input type="submit" value="Login" id="logger2" class="primary"/>
+													</div>
+                                                </form>
+                                      </section>
+                                  </div>
+                                </div>
+                            </li>
 						</ul>
 					</nav>
+                
 
 				<!-- Main -->
 					<div id="main">
@@ -184,6 +208,17 @@
             span.onclick = function() {
                 modal.style.display = "none";
             }
+            </script>
+            <script> 
+                var modal0 = document.getElementById('myModal0');
+                var btn0 = document.getElementById("myBtn0");
+                var span0 = document.getElementsByClassName("close0")[0];
+                btn0.onclick = function() {
+                modal0.style.display = "block";
+                }
+                span0.onclick = function() {
+                modal0.style.display = "none";
+                }
             </script>
             <script> 
                 var modal2 = document.getElementById('myModal2');

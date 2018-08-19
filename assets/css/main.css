@@ -212,6 +212,10 @@ input, select, textarea {
 		font-size: 1.25em;
 	}
 
+    #LogInHeading { 
+        padding-bottom: 0.5em;
+    }
+
 	h4 {
 		font-size: 1.1em;
 	}
@@ -531,7 +535,7 @@ input, select, textarea {
 			}
 
 				.row.gtr-uniform > * {
-					padding-top: 1.5em;
+					padding-top: 1em;
 				}
 
 		.row.gtr-150 {
@@ -774,7 +778,7 @@ input, select, textarea {
 					}
 
 						.row.gtr-uniform > * {
-							padding-top: 1.5em;
+							padding-top: 1em;
 						}
 
 				.row.gtr-150 {
@@ -1019,7 +1023,7 @@ input, select, textarea {
 					}
 
 						.row.gtr-uniform > * {
-							padding-top: 1.5em;
+							padding-top: 1em;
 						}
 
 				.row.gtr-150 {
@@ -1264,7 +1268,7 @@ input, select, textarea {
 					}
 
 						.row.gtr-uniform > * {
-							padding-top: 1.5em;
+							padding-top: 1em;
 						}
 
 				.row.gtr-150 {
@@ -1754,7 +1758,7 @@ input, select, textarea {
 					}
 
 						.row.gtr-uniform > * {
-							padding-top: 1.25em;
+							padding-top: 1em;
 						}
 
 				.row.gtr-150 {
@@ -1985,6 +1989,10 @@ input, select, textarea {
                 min-width: 13.5em;
             }
 
+            #myBtn0 {
+                cursor:pointer;
+            }
+
             .signup {
                         width: 50%;
                         float: left;
@@ -2036,7 +2044,6 @@ input, select, textarea {
                 background: url("images/lindsey.jpg") no-repeat;
                 background-size: 100% 100%;
                     }
-                
                 
 
 
@@ -2198,7 +2205,7 @@ input, select, textarea {
 	select,
 	textarea {
 		background-color: rgba(255, 255, 255, 0.075);
-		border-color: rgba(255, 255, 255, 0.35);
+		border-color: #808080;
 	}
 
 		input[type="text"]:focus,
@@ -2244,23 +2251,23 @@ input, select, textarea {
 	}
 
 	::-webkit-input-placeholder {
-		color: rgba(255, 255, 255, 0.5) !important;
+		color: #A9A9A9 !important;
 	}
 
 	:-moz-placeholder {
-		color: rgba(255, 255, 255, 0.5) !important;
+		color: #A9A9A9 !important;
 	}
 
 	::-moz-placeholder {
-		color: rgba(255, 255, 255, 0.5) !important;
+		color: #A9A9A9 !important;
 	}
 
 	:-ms-input-placeholder {
-		color: rgba(255, 255, 255, 0.5) !important;
+		color: #A9A9A9 !important;
 	}
 
 	.formerize-placeholder {
-		color: rgba(255, 255, 255, 0.5) !important;
+		color: #A9A9A9 !important;
 	}
 
 
@@ -3355,17 +3362,6 @@ input, select, textarea {
 					font-size: 0.9em;
 				}
 
-		@media screen and (max-width: 736px) {
-
-			#nav {
-				display: none;
-			}
-
-				#nav + #main {
-					padding-top: 0;
-				}
-
-		}
 
 /*Modal*/
 .modal {
@@ -3381,6 +3377,10 @@ input, select, textarea {
     background-color: rgb(0,0,0); /* Fallback color */
     background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
         !important;
+}
+
+#myModal0 {
+    padding-top: 10em;
 }
 
 /* Modal Content */
@@ -3400,6 +3400,11 @@ input, select, textarea {
     
 }
 
+#loginmodalcontent{
+    width: 26em;
+    display:inline-block;
+}
+
 /* The Close Button */
 .close {
     color: #aaaaaa;
@@ -3410,6 +3415,20 @@ input, select, textarea {
 
 .close:hover,
 .close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close0 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close0:hover,
+.close0:focus {
     color: #000;
     text-decoration: none;
     cursor: pointer;
@@ -3832,6 +3851,14 @@ input, select, textarea {
 						}
 
 		}
+
+#Logger {
+    margin: 1em 0 0 0 !important;
+    padding: 0;
+    float:left;
+    
+}
+
 
 /* Footer */
 
