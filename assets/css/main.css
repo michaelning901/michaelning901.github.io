@@ -2044,6 +2044,16 @@ input, select, textarea {
                 background: url("images/lindsey.jpg") no-repeat;
                 background-size: 100% 100%;
                     }
+
+            .dan {
+                background: url("images/Dan.PNG") no-repeat;
+                background-size: 100% 100%;
+                    }
+    
+            .arlo {
+                background: url("images/Arlo.png") no-repeat;
+                background-size: 100% 100%;
+                    }
                 
 
 
@@ -3518,6 +3528,35 @@ input, select, textarea {
     text-decoration: none;
     cursor: pointer;
 }
+
+.close7 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close7:hover,
+.close7:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close8 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close8:hover,
+.close8:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
 
 
 /* Main */
