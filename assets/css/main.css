@@ -2059,6 +2059,11 @@ input, select, textarea {
                 background: url("images/sai.png") no-repeat;
                 background-size: 100% 100%;
                     }
+
+            .Nicole {
+                background: url("images/nicole.png") no-repeat;
+                background-size: 100% 100%;
+                    }
                 
 
 
@@ -3571,6 +3576,20 @@ input, select, textarea {
 
 .close9:hover,
 .close9:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close10 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close10:hover,
+.close10:focus {
     color: #000;
     text-decoration: none;
     cursor: pointer;
