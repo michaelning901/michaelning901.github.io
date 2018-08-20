@@ -3271,6 +3271,22 @@ input, select, textarea {
 		text-align: center;
 	}
 
+      @media screen and (max-width: 480px) {
+
+			#nav {
+				max-width: calc(100% - 2em);
+			}
+
+		}
+
+        @media screen and (max-width: 360px) {
+
+			#nav {
+				max-width: calc(100%);
+			}
+
+		}
+
 		#nav input, #nav select, #nav textarea {
 			color: #636363;
 		}
