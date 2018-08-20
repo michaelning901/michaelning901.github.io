@@ -2054,6 +2054,11 @@ input, select, textarea {
                 background: url("images/Arlo.png") no-repeat;
                 background-size: 100% 100%;
                     }
+
+            .sai {
+                background: url("images/sai.png") no-repeat;
+                background-size: 100% 100%;
+                    }
                 
 
 
@@ -3556,6 +3561,21 @@ input, select, textarea {
     text-decoration: none;
     cursor: pointer;
 }
+
+.close9 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close9:hover,
+.close9:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
 
 
 
