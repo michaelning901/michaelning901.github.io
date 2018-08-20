@@ -2064,6 +2064,26 @@ input, select, textarea {
                 background: url("images/nicole1.PNG") no-repeat;
                 background-size: 100% 100%;
                     }
+
+            .Ethan {
+                background: url("images/Ethan.jpg") no-repeat;
+                background-size: 100% 100%;
+                    }
+
+            .Ronak {
+                background: url("images/Ronak.PNG") no-repeat;
+                background-size: 100% 100%;
+                    }
+
+            .Abby {
+                background: url("images/Abby.jpg") no-repeat;
+                background-size: 100% 100%;
+                    }
+
+            .Luke {
+                background: url("images/Luke.jpg") no-repeat;
+                background-size: 100% 100%;
+                    }
                 
 
 
@@ -3590,6 +3610,76 @@ input, select, textarea {
 
 .close10:hover,
 .close10:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close11 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close11:hover,
+.close11:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close12 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close12:hover,
+.close12:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close13 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close13:hover,
+.close13:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close14 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close14:hover,
+.close14:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close15 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close15:hover,
+.close15:focus {
     color: #000;
     text-decoration: none;
     cursor: pointer;
