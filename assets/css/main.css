@@ -2084,7 +2084,67 @@ input, select, textarea {
                 background: url("images/Luke.jpg") no-repeat;
                 background-size: 100% 100%;
                     }
-                
+
+            .Evan {
+                background: url("images/Evan.jpg") no-repeat;
+                background-size: 100% 100%;
+                    }
+
+            .Alan {
+                background: url("images/Alan.png") no-repeat;
+                background-size: 100% 100%;
+                    }
+
+            .Matt {
+                background: url("images/Matt.jpg") no-repeat;
+                background-size: 100% 100%;
+                    }
+
+            .Meghana {
+                background: url("images/Meghana.jpg") no-repeat;
+                background-size: 100% 100%;
+                    }
+
+            .Scott {
+                background: url("images/Scott.jpg") no-repeat;
+                background-size: 100% 100%;
+                    }
+
+            .Josh {
+                background: url("images/Joshua.jpg") no-repeat;
+                background-size: 100% 100%;
+                    }
+
+            .Vincent {
+                background: url("images/overlay.png") no-repeat;
+                background-size: 100% 100%;
+                    }
+
+            .John {
+                background: url("images/John.jpg") no-repeat;
+                background-size: 100% 100%;
+                    }
+
+            .Daniel {
+                background: url("images/Daniel.png") no-repeat;
+                background-size: 100% 100%;
+                    }
+
+            .Varun {
+                background: url("images/Varun.jpg") no-repeat;
+                background-size: 100% 100%;
+                    }
+
+            .LukeG {
+                background: url("images/overlay.png") no-repeat;
+                background-size: 100% 100%;
+                    }
+
+            .Avery {
+                background: url("images/Avery1.jpg") no-repeat;
+                background-size: 100% 100%;
+                    }
+            
 
 
 /* Form */
@@ -3685,9 +3745,157 @@ input, select, textarea {
     cursor: pointer;
 }
 
+.close16 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
 
+.close16:hover,
+.close16:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
 
+.close17 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
 
+.close17:hover,
+.close17:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close18 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close18:hover,
+.close18:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close19 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close19:hover,
+.close19:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+.close20 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close20:hover,
+.close20:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close21 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close21:hover,
+.close21:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close22 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close22:hover,
+.close22:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close23 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close23:hover,
+.close23:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close24 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close24:hover,
+.close24:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close25 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close25:hover,
+.close25:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+.close26 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close26:hover,
+.close26:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
 /* Main */
 
 	#main {
