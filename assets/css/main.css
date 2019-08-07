@@ -2018,85 +2018,97 @@ input, select, textarea {
 
             .Animesh {
                 background: url("images/Animesh.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
                 
             .Evan {
                 background: url("images/Evan.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
 
             .Perry {
                 background: url("images/Perry.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
 
             .Tajaih {
                 background: url("images/Tajaih.png") no-repeat;
-                background-size: 100% 100%;
                 background-size:cover; 
                 background-position:center center; 
                     }
 
             .Abby {
                 background: url("images/Abby.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
 
             .Joanne {
                 background: url("images/Joanne.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
 
             .Tej {
                 background: url("images/Tej.png") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
     
             .Avery {
                 background: url("images/Avery.jpg") no-repeat;
-                background-size: 100% 100%;
-                    }
+                background-size:cover; 
+                background-position:center center;                     }
 
             .John {
                 background: url("images/John.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
 
             .Serena {
                 background: url("images/Serena.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
 
             .Andrew {
                 background: url("images/Andrew.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
 
             .Lauren {
                 background: url("images/Lauren.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
 
             .Zach {
                 background: url("images/Zach.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
 
             .Isabella {
                 background: url("images/Isabella.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
 
             .Meghana {
                 background: url("images/Meghana.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
 
             .Ben {
                 background: url("images/Ben.PNG") no-repeat;
-                background-size: 100% 100%;
-                    }
+                background-size:cover; 
+                background-position:center center;                     }
 
             .Rohan {
                 background: url("images/Rohan.png") no-repeat;
@@ -2107,12 +2119,14 @@ input, select, textarea {
 
             .Mimi {
                 background: url("images/Mimi.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
 
             .Annie {
                 background: url("images/Annie.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
 /*
             .Josh {
