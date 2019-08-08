@@ -2105,10 +2105,11 @@ input, select, textarea {
                 background-position:center center; 
                     }
 
-            .Ben {
-                background: url("images/Ben.png") no-repeat;
-                background-size:cover; 
-                background-position:center center;                     }
+            .Ben { 
+                background: url("images/Ben.png") no-repeat; 
+                background-size: cover;
+                background-position: center center;
+                    }
 
             .Rohan {
                 background: url("images/Rohan.png") no-repeat;
