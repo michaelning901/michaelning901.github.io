@@ -3966,6 +3966,72 @@ input, select, textarea {
     text-decoration: none;
     cursor: pointer;
 }
+                
+.close27 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close27:hover,
+.close27:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+.close28 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close28:hover,
+.close28:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+.close29 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close29:hover,
+.close29:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+.close30 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close30:hover,
+.close30:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+.close31 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close31:hover,
+.close31:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
 /* Main */
 
 	#main {
