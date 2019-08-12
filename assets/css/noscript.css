@@ -6,7 +6,7 @@
 
 /* Header */
 
-	body.is-preload #header.alt > * {
+	body.is-preload #header.alt > * {  
 		opacity: 1;
 	}
 
