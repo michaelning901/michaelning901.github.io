@@ -2194,6 +2194,11 @@ input, select, textarea {
 
 
 
+
+
+
+
+
 /* Form */
 
 
@@ -3931,8 +3936,6 @@ input, select, textarea {
     text-decoration: none;
     cursor: pointer;
 }
-            
-            /*
 .close26 {
     color: #aaaaaa;
     float: right;
@@ -3946,7 +3949,8 @@ input, select, textarea {
     text-decoration: none;
     cursor: pointer;
 }
-                
+
+/*
 .close27 {
     color: #aaaaaa;
     float: right;
