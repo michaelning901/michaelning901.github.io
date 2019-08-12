@@ -1851,7 +1851,29 @@ input, select, textarea {
 		text-decoration: none;
 		white-space: nowrap;
 	}
+.button2 {
+    -webkit-appearance: none;
+		-ms-appearance: none;
+		appearance: none;
+		-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+		border-radius: 8px;
+		border: 0;
+		cursor: pointer;
+		display: inline-block;
+		font-weight: 300;
+		height: 2.75em;
+		line-height: 2.75em;
+		min-width: 7.5em;
+		padding: 0 1.5em;
+		text-align: center;
+		text-decoration: none;
+		white-space: nowrap;
+      margin:auto;
 
+}
 		input[type="submit"].icon,
 		input[type="reset"].icon,
 		input[type="button"].icon,
@@ -2134,41 +2156,61 @@ input, select, textarea {
                 background: url("images/Kevin.png") no-repeat;
                 background-size: 100% 100%;
                     }
-/*
-            .Vincent {
-                background: url("images/overlay.png") no-repeat;
+
+            .Ava {
+                background: url("images/Ava.jpg") no-repeat;
                 background-size: 100% 100%;
                     }
 
-            .John {
-                background: url("images/John.jpg") no-repeat;
+            .Scott {
+                background: url("images/Scott.jpg") no-repeat;
                 background-size: 100% 100%;
                     }
 
-            .Daniel {
-                background: url("images/Daniel.png") no-repeat;
+            .Arun {
+                background: url("images/Arun.jpg") no-repeat;
                 background-size: 100% 100%;
                     }
 
-            .Varun {
-                background: url("images/Varun.jpg") no-repeat;
+            .Asher {
+                background: url("images/Asher.png") no-repeat;
                 background-size: 100% 100%;
                     }
 
-            .LukeG {
-                background: url("images/LukeG.jpg") no-repeat;
+            .Matthew {
+                background: url("images/Matthew.jpg") no-repeat;
                 background-size: 100% 100%;
                     }
 
-            .Avery {
-                background: url("images/Avery1.jpg") no-repeat;
+            .Elizabeth {
+                background: url("images/Elizabeth.jpg") no-repeat;
                 background-size: 100% 100%;
                     }
 
-            .Perry {
-                background: url("images/Perry.jpg") no-repeat;
+            .Angela {
+                background: url("images/Angela.png") no-repeat;
                 background-size: 100% 100%;
                     }
+            .Ben1 {
+                background: url("images/Ben.jpg") no-repeat;
+                background-size: 100% 100%;
+                    }
+            .Nate {
+                background: url("images/PepTalk.jpg") no-repeat;
+                background-size: 100% 100%;
+                    }
+            .Gabrielle {
+                background: url("images/PepTalk.jpg") no-repeat;
+                background-size: 100% 100%;
+            /*        }
+            .Nate {
+                background: url("images/PepTalk.jpg") no-repeat;
+                background-size: 100% 100%;
+                    }
+                        
+
+
+
             */
 
 
