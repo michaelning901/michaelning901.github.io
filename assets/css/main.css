@@ -2179,7 +2179,7 @@ input, select, textarea {
                 background: url("images/PepTalk.jpg") no-repeat;
                 background-size: 100% 100%;
                     }
-
+/*
             .Gabrielle {
                 background: url("images/PepTalk.jpg") no-repeat;
                 background-size: 100% 100%;
@@ -3995,7 +3995,7 @@ input, select, textarea {
     text-decoration: none;
     cursor: pointer;
 }
-
+/*
 .close30 {
     color: #aaaaaa;
     float: right;
@@ -4009,7 +4009,7 @@ input, select, textarea {
     text-decoration: none;
     cursor: pointer;
 }
-/*
+
 .close31 {
     color: #aaaaaa;
     float: right;
