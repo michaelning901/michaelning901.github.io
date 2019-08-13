@@ -2169,11 +2169,12 @@ input, select, textarea {
                 background: url("images/Angela.png") no-repeat;
                 background-size: 100% 100%;
                     }
-/*
+
             .Ben1 {
                 background: url("images/Ben.jpg") no-repeat;
                 background-size: 100% 100%;
                     }
+/*
             .Nate {
                 background: url("images/PepTalk.jpg") no-repeat;
                 background-size: 100% 100%;
@@ -3951,7 +3952,7 @@ input, select, textarea {
     cursor: pointer;
 }
 
-/*
+
 .close27 {
     color: #aaaaaa;
     float: right;
@@ -3965,6 +3966,7 @@ input, select, textarea {
     text-decoration: none;
     cursor: pointer;
 }
+
 .close28 {
     color: #aaaaaa;
     float: right;
@@ -3978,6 +3980,7 @@ input, select, textarea {
     text-decoration: none;
     cursor: pointer;
 }
+/*
 .close29 {
     color: #aaaaaa;
     float: right;
