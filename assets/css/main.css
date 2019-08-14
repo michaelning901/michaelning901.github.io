@@ -2242,9 +2242,10 @@ input, select, textarea {
                 background-position:center center; 
                     }
             .Michael {
-                background: url("images/Michael.png") no-repeat; 
+                background: url("images/Michael.png") no-repeat;
                 background-size:cover; 
-                background-position:center center; }
+                background-position:center center; 
+                    }
 
 
             */
