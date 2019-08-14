@@ -2132,37 +2132,44 @@ input, select, textarea {
 
             .Kevin {
                 background: url("images/Kevin.png") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
 
             .Ava {
                 background: url("images/Ava.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
 
             .Scott {
                 background: url("images/Scott.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
 
             .Arun {
                 background: url("images/Arun.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
 
             .Asher {
                 background: url("images/Asher.png") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
 
             .Matthew {
                 background: url("images/Matthew.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
 
             .Elizabeth {
                 background: url("images/Elizabeth.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
 
             .Angela {
@@ -2172,60 +2179,72 @@ input, select, textarea {
 
             .Ben1 {
                 background: url("images/Ben.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
 
             .Nate {
                 background: url("images/PepTalk.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
 
             .Gabrielle {
                 background: url("images/PepTalk.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                    }
 
             .David {
                 background: url("images/David.png") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
                         
             .Breigh {
                 background: url("images/Breigh.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
             .Josh {
                 background: url("images/Josh.png") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
             .Arjun {
                 background: url("images/Arjun.png") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
             .Ben2 {
                 background: url("images/Ben2.png") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
             .Anika {
                 background: url("images/Anika.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
             .Lukas {
                 background: url("images/Lukas.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
             .Reetesh {
                 background: url("images/Reetesh.png") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
             .Jason {
                 background: url("images/Jason.jpg") no-repeat;
-                background-size: 100% 100%;
+                background-size:cover; 
+                background-position:center center; 
                     }
             .Michael {
                 background: url("images/Michael.png") no-repeat; 
-                background-size: 100% 100%; 
-}
+                background-size:cover; 
+                background-position:center center; }
 
 
             */
