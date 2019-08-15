@@ -2130,7 +2130,7 @@ input, select, textarea {
                 background-position:center center; 
                     }
 
-            .Kevin {
+            .c {
                 background: url("images/Kevin.png") no-repeat;
                 background-size:cover; 
                 background-position:center center; 
@@ -2243,6 +2243,21 @@ input, select, textarea {
                     }
             .Michael {
                 background: url("images/Michael.png") no-repeat;
+                background-size:cover; 
+                background-position:center center; 
+                    }
+            .Max {
+                background: url("images/PepTalk.jpg") no-repeat;
+                background-size:cover; 
+                background-position:center center; 
+                    }
+            .Rex {
+                background: url("images/Rex.png") no-repeat;
+                background-size:cover; 
+                background-position:center center; 
+                    }
+            .Jarvis {
+                background: url("images/Jarvis.png") no-repeat;
                 background-size:cover; 
                 background-position:center center; 
                     }
@@ -4206,7 +4221,146 @@ input, select, textarea {
     cursor: pointer;
 }
 
+.close41 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
 
+.close41:hover,
+.close41:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close42 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close42:hover,
+.close42:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close43 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close43:hover,
+.close43:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+/*
+.close44 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close44:hover,
+.close44:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close45 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close45:hover,
+.close45:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+.close46 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close46:hover,
+.close46:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+.close47 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close47:hover,
+.close47:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close48 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close48:hover,
+.close48:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close49 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close49:hover,
+.close49:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close50 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close50:hover,
+.close50:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+*/
 /* Main */
 
 	#main {
