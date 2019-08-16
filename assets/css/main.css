@@ -2261,7 +2261,11 @@ input, select, textarea {
                 background-size:cover; 
                 background-position:center center; 
                     }
-
+            .Shreya {
+                background: url("images/Shreya.jpg") no-repeat;
+                background-size:cover; 
+                background-position:center center; 
+                    }
 
             */
 
@@ -4262,7 +4266,7 @@ input, select, textarea {
     text-decoration: none;
     cursor: pointer;
 }
-/*
+
 .close44 {
     color: #aaaaaa;
     float: right;
@@ -4276,6 +4280,7 @@ input, select, textarea {
     text-decoration: none;
     cursor: pointer;
 }
+/*
 
 .close45 {
     color: #aaaaaa;
