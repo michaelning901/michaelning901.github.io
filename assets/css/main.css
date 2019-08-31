@@ -2266,7 +2266,51 @@ input, select, textarea {
                 background-size:cover; 
                 background-position:center center; 
                     }
-
+            .Nikki {
+                background: url("images/PepTalk.jpg") no-repeat;
+                background-size:cover; 
+                background-position:center center; 
+                    }
+            .Jalyn {
+                background: url("images/Jalyn.jpg") no-repeat;
+                background-size:cover; 
+                background-position:center center; 
+                    }
+            .Kirtan {
+                background: url("images/Kirtan.png") no-repeat;
+                background-size:cover; 
+                background-position:center center; 
+                    }
+            .Curtis {
+                background: url("images/Curtis.png") no-repeat;
+                background-size:cover; 
+                background-position:center center; 
+                    }
+            .Nevin {
+                background: url("images/PepTalk.jpg") no-repeat;
+                background-size:cover; 
+                background-position:center center; 
+                    }
+            .Christine {
+                background: url("images/PepTalk.jpg") no-repeat;
+                background-size:cover; 
+                background-position:center center; 
+                    }
+            .Arjan  {
+                background: url("images/Jarvis.png") no-repeat;
+                background-size:cover; 
+                background-position:center center; 
+                    }
+            .David {
+                background: url("images/PepTalk.jpg") no-repeat;
+                background-size:cover; 
+                background-position:center center; 
+                    }
+            .Madi {
+                background: url("images/PepTalk.jpg") no-repeat;
+                background-size:cover; 
+                background-position:center center; 
+                    }
             */
 
 
@@ -4280,7 +4324,7 @@ input, select, textarea {
     text-decoration: none;
     cursor: pointer;
 }
-/*
+
 
 .close45 {
     color: #aaaaaa;
@@ -4365,7 +4409,151 @@ input, select, textarea {
     text-decoration: none;
     cursor: pointer;
 }
-*/
+
+
+.close51 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close51:hover,
+.close51:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close52 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close52:hover,
+.close52:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close53 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close53:hover,
+.close43:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/*
+.close54 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close54:hover,
+.close54:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+.close55 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close55:hover,
+.close55:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+.close56 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close56:hover,
+.close56:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+.close57 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close57:hover,
+.close57:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close58 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close58:hover,
+.close58:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close59 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close59:hover,
+.close59:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close60 {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close60:hover,
+.close60:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+/*
+
 /* Main */
 
 	#main {
