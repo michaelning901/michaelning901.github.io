@@ -2267,7 +2267,7 @@ input, select, textarea {
                 background-position:center center; 
                     }
             .Nikki {
-                background: url("images/PepTalk.jpg") no-repeat;
+                background: url("images/Nikki.jpg") no-repeat;
                 background-size:cover; 
                 background-position:center center; 
                     }
@@ -2297,7 +2297,7 @@ input, select, textarea {
                 background-position:center center; 
                     }
             .Arjan  {
-                background: url("images/PepTalk.jpg") no-repeat;
+                background: url("images/Arjan.jpg") no-repeat;
                 background-size:cover; 
                 background-position:center center; 
                     }
@@ -2307,7 +2307,12 @@ input, select, textarea {
                 background-position:center center; 
                     }
             .Madi {
-                background: url("images/PepTalk.jpg") no-repeat;
+                background: url("images/Madi.png") no-repeat;
+                background-size:cover; 
+                background-position:center center; 
+                    }
+            .Adnan {
+                background: url("images/Adnan.jpg") no-repeat;
                 background-size:cover; 
                 background-position:center center; 
                     }
