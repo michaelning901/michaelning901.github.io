@@ -2323,7 +2323,13 @@ input, select, textarea {
 
 
 
+/* Slideshow */
 
+
+.slideshow-container {
+	width: 1200px;
+	position: relative;
+	margin: -10px;
 
 
 /* Form */
