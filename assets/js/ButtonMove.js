@@ -1,5 +1,24 @@
 var slideIndex = 0;
 showSlides();
+
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}
+  slides[slideIndex-1].style.display = "block";
+  setTimeout(showSlides, 2000); // Change image every 2 seconds
+}
+
+
+
+/* 
+
+var slideIndex = 0;
+showSlides();
 var slides, dots;
 
 function showSlides() {
@@ -19,7 +38,7 @@ function showSlides() {
     setTimeout(showSlides, 8000); // Change image every 8 seconds
 }
 
-/*function plusSlides(position) {
+function plusSlides(position) {
     slideIndex +=position;
     if (slideIndex> slides.length) {slideIndex = 1}
     else if(slideIndex<1){slideIndex = slides.length}
@@ -33,7 +52,6 @@ function showSlides() {
     dots[slideIndex-1].className += " active";
 }
 
-*/
 
 function currentSlide(index) {
     if (index> slides.length) {index = 1}
@@ -47,3 +65,4 @@ function currentSlide(index) {
     slides[index-1].style.display = "block";  
     dots[index-1].className += " active";
 }
+*/
