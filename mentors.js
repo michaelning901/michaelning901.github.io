@@ -217,7 +217,7 @@ const master_mentors = [
 	},
     {
 		path : "assets/css/images/Anika.jpg",
-		personTitle : "Anika Dham, American Heritage(FL) ",
+		personTitle : "Anika Dham, American Heritage (FL) ",
 		description : "Anika has debated for American Heritage school since she was a freshman and loves it. She joined peptalk to help out students who may not have had a strong support system like her. She enjoys theory, and philosophy debates.",
 		region : "Southeast",
 	},
