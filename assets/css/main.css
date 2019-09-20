@@ -1774,6 +1774,7 @@ input, select, textarea {
 					.row.gtr-150.gtr-uniform {
 						margin-top: -1.875em;
 					}
+					}
 
 						.row.gtr-150.gtr-uniform > * {
 							padding-top: 1.875em;
@@ -2015,7 +2016,7 @@ input, select, textarea {
                     opacity: 0.7;
                     !important;
                     }
-
+/*
             .Animesh {
                 background: url("images/Animesh.jpg") no-repeat;
                 background-size:cover; 
@@ -2113,7 +2114,7 @@ input, select, textarea {
 
             .Rohan {
                 background: url("images/Rohan.png") no-repeat;
-                /*background-size: 100% 100%;*/
+                background-size: 100% 100%;
                 background-size:cover; 
                 background-position:center center; 
                     }
@@ -2326,83 +2327,86 @@ input, select, textarea {
 /* Slideshow */
 
 
-* {box-sizing:border-box}
-
-
-.slideshow-container {
-  max-width: 200px;
-  position: relative;
-  margin: auto;
+.Person:hover{
+	opacity:0.7;
 }
 
-/* Hide the images by default */
-.mySlides {
-  display: none;
+.PersonSection{
+	display: -moz-flex;
+	display: -webkit-flex;
+	display: -ms-flex;
+	display: flex;
+	-moz-flex-wrap: wrap;
+	-webkit-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	-moz-justify-content: center;
+	-webkit-justify-content: center;
+	-ms-justify-content: center;
+	justify-content: center;
+	width: calc(100%);
+	margin: 2em 0 1em 0;
+	padding: 0;
+	list-style: none;
 }
 
-/* Next & previous buttons */
-.prev, .next {
-  cursor: pointer;
-  position: absolute;
-  top: 50%;
-  width: auto;
-  margin-top: -22px;
-  padding: 16px;
-  color: white;
-  font-weight: bold;
-  font-size: 18px;
-  transition: 0.6s ease;
-  border-radius: 0 3px 3px 0;
-  user-select: none;
+.Person_li {
+	width: calc(20%);
+	margin-left: 0em;
+	margin-top: 0em;
+    margin-bottom: 2em;
+	padding: 0;
 }
 
-/* Position the "next button" to the right */
-.next {
-  right: 0;
-  border-radius: 3px 0 0 3px;
+.close{
+	color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
 }
 
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
+.close:hover{
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
 }
 
+.profile{
+	border-radius: 10px;
+	background-color: #fefefe; 
+    padding: 20px;
+    border: 1px solid #D3D3D3;
+    -webkit-box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3);
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding-box;
+    background-clip: padding-box;
+    width: 25em;
 
-
-/* The dots/bullets/indicators */
-.dot {
-  cursor: pointer;
-  height: 15px;
-  width: 15px;
-  margin: 0 2px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
+    position: fixed;
+    z-index: 10001;
+    top: 50%;
+    left:50%;
+ 	transform: translate(-50%, -50%);
+    overflow: auto;
 }
 
-.active, .dot:hover {
-  background-color: #717171;
+ul {
+	list-style: none;
+	display: -moz-flex;
+	display: -webkit-flex;
+	display: -ms-flex;
+	display: flex;
+	-moz-flex-wrap: wrap;
+	-webkit-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	-moz-justify-content: center;
+	-webkit-justify-content: center;
+	-ms-justify-content: center;
+	justify-content: center;
 }
-
-/* Fading animation */
-.fade {
-  -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
-
-@-webkit-keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
-}
-
-@keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
-}
-
 /* Form */
 
 
@@ -2824,7 +2828,7 @@ input, select, textarea {
 			padding-left: 0.25em;
 		}
 
-	ul {
+/*	ul {
 		list-style: disc;
 		margin: 0 0 0 0;
 		padding-left: 1em;
@@ -2848,7 +2852,7 @@ input, select, textarea {
 					border-top: 0;
 					padding-top: 0;
 				}
-
+*/
 	dl {
 		margin: 0 0 1.4em 0;
 	}
@@ -3779,19 +3783,8 @@ input, select, textarea {
 }
 
 /* The Close Button */
-.close {
-    color: #aaaaaa;
-    float: right;
-    font-size: 28px;
-    font-weight: bold;
-}
 
-.close:hover,
-.close:focus {
-    color: #000;
-    text-decoration: none;
-    cursor: pointer;
-}
+
 
 .close0 {
     color: #aaaaaa;
@@ -3807,6 +3800,7 @@ input, select, textarea {
     cursor: pointer;
 }
 
+/*
 .close2 {
     color: #aaaaaa;
     float: right;

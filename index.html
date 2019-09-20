@@ -6,78 +6,19 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
         <link rel="icon" type="image/png" href="images/PepTalk3.jpg" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-        <style>
-* {box-sizing: border-box;}
+        <!-- Stuff Sachin helped with -->
+        <script src="react.development.js"></script>
+        <script src="react-dom.development.js"></script>
+        <script> const e = React.createElement; const c = React.Component;</script>
+        <script src = "mentors.js"></script>
+        <script src = "profile.js"></script>
+        <script src = "regionButtons.js"></script>
+        <script src = "regionalSection.js"></script>
+        <script src = "personSection.js"></script>
+        <script src = "person.js"></script>
+        <script src = "app.js"></script>
+        <link href = 'style.css' rel='stylesheet' type = "text/css"></link>
 
-.mySlides {display: none;}
-img {vertical-align: middle;}
-
-/* Slideshow container */
-.slideshow-container {
-<<<<<<< HEAD
-    border-radius: 10px;
-    background-color: #fefefe;
-    margin: auto;
-    padding: 20px;
-    
-    -webkit-background-clip: padding-box;
-    -moz-background-clip: padding-box;
-    background-clip: padding-box;
-    width: 25em;
-=======
-  height: 20em;
-    width: 20em;
-  position: relative;
-  margin: auto;
->>>>>>> parent of 2b4c436... Update index.html
-}
-
-Caption text 
-.text {
-  color: #f2f2f2;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
-}
-
-
-
-
-
-.active {
-  background-color: #717171;
-}
-
-/* Fading animation */
-.fade {
-  -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
-
-@-webkit-keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}
-
-@keyframes fade {
-  from {opacity: .4} 
-  to {opacity: 1}
-}
-
-/* On smaller screens, decrease text size */
-<<<<<<< HEAD
-@media only screen and (max-width: 300px) {
-=======
-@media only screen and (max-width: 100px) {
->>>>>>> parent of 2b4c436... Update index.html
-  .text {font-size: 11px}
-}
-</style>
 	</head>
 	<body class="is-preload">
         
@@ -154,7 +95,10 @@ Caption text
 									<h2>Our Admin</h2>
 								</header>
 								<ul class="features">
-									<li>
+                                    <div id="sachin"></div>
+                                       <script>run()</script>
+									<!--
+                                    <li>
 								        <button id="myBtn" class="Animesh circular"></button>
                                         <div id="myModal" class="modal">
                                           <div class="modal-content">
@@ -163,7 +107,7 @@ Caption text
                                              <p style="text-align:left;">
                                                  Animesh Joshi is a senior at WDM Valley High School and has eight career bids, going to the Tournament of Champions three times. After working with PepTalk the last two years, he is looking forward to running the program as co-president and acting as web developer! He's championed the Yale Invitational, Florida Blue Key, and the Iowa State Tournament (in PF!), while also reaching elimination rounds at Bronx, Apple Valley, the Glebrooks, Blake, Lexington, and Harvard. His debate interests include analytical philosophy, theory, and the occasional trick. He's very excited to continue mentoring this year! 
                                                  
-                                                 <!--Julia Wu is a senior at Lake Highland Prep and has three career bids, going to the Tournament of Champions twice. After working with PepTalk last year, she is looking forward to running the program as a co-president! She is team captain this year after two years as novice team captain. She championed the Varsity Florida State tournament as a junior and has been in semifinals of the Strake Jesuit Invitational and Florida Blue Key as well as in elimination rounds at Yale, Princeton, Harvard, Lexington, Apple Valley, and the Mid America Cup. Her debate interests include framework, theory, and kritikal high theory. She is very excited to be working with new students this year!--> </p>
+                                                 Julia Wu is a senior at Lake Highland Prep and has three career bids, going to the Tournament of Champions twice. After working with PepTalk last year, she is looking forward to running the program as a co-president! She is team captain this year after two years as novice team captain. She championed the Varsity Florida State tournament as a junior and has been in semifinals of the Strake Jesuit Invitational and Florida Blue Key as well as in elimination rounds at Yale, Princeton, Harvard, Lexington, Apple Valley, and the Mid America Cup. Her debate interests include framework, theory, and kritikal high theory. She is very excited to be working with new students this year! </p>
                                           </div>
                                         </div>
                                     </li>
@@ -186,14 +130,15 @@ Caption text
                                              <p style="text-align:left;">
                                                 Perry is a senior at American Heritage in Plantation Florida who is in his fourth year of debate. After working with PepTalk last year, he is looking forward to helping run the program as vice president! He has reached multiple bid rounds at large national tournaments, and is the captain of his school’s LD team. Some of his debate interests include Tricks, Framework debate, and Theory.
                                                
-                                                 <!--Michael Ning is entering his 4th year of LD debate as a rising senior at Hunter College High School in New York, where he will serve as team president. He earned bids his junior year at the Newark and Lexington Invitationals, finaled the Penn Round Robin, and broke to elimination rounds of the TOC as 20th speaker. His debate interests include philosophical framework, policy-style (LARP), and critical identity-based debate. He was a mentor through the PepTalk program last year, and is excited to serve as vice-president and web developer for the upcoming year!--></p>
+                                                 Michael Ning is entering his 4th year of LD debate as a rising senior at Hunter College High School in New York, where he will serve as team president. He earned bids his junior year at the Newark and Lexington Invitationals, finaled the Penn Round Robin, and broke to elimination rounds of the TOC as 20th speaker. His debate interests include philosophical framework, policy-style (LARP), and critical identity-based debate. He was a mentor through the PepTalk program last year, and is excited to serve as vice-president and web developer for the upcoming year!</p>
                                           </div>
                                         </div>
 									</li>
-                        </ul>
+                        </ul> 
 							</section>
+-->
                           <!-- Third Section -->           
-                            <section id="second" class="main special">
+                          <!--  <section id="second" class="main special">
 								<header class="major">
 									<h2>Our Mentors</h2>
 								</header>
@@ -790,13 +735,11 @@ Caption text
                                         </div>
                                     </li>
                                
-
-
-</div>
+                                  
                                     
                                     
                                     
-                                          <!--
+                                  
                                     <li>
 										<button id="myBtn55" class="Jason circular"></button>
                                         <div id="myModal55" class="modal">
@@ -909,6 +852,9 @@ Caption text
                 modal.style.display = "none";
             }
             </script>
+        
+        
+
             <script> 
                 var modal0 = document.getElementById('myModal0');
                 var btn0 = document.getElementById("myBtn0");
@@ -920,6 +866,7 @@ Caption text
                 modal0.style.display = "none";
                 }
             </script>
+    <!--
             <script> 
                 var modal2 = document.getElementById('myModal2');
                 var btn2 = document.getElementById("myBtn2");
@@ -1535,26 +1482,6 @@ Caption text
                 span54.onclick = function() {
                 modal54.style.display = "none";
                 }
-            </script>
-
-                <script>
-                var slideIndex = 0;
-                showSlides();
-
-                function showSlides() {
-                var i;
-                var slides = document.getElementsByClassName("mySlides");
-                for (i = 0; i < slides.length; i++) {
-                slides[i].style.display = "none";
-                }
-                slideIndex++;
-                    if (slideIndex > slides.length) {slideIndex = 1}
-                        slides[slideIndex-1].style.display = "block";
-                        setTimeout(showSlides, 2000); // Change image every 2 seconds
-}
-                
-
-            </script>
-
+           -->
 	</body>
 </html>
