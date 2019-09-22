@@ -347,7 +347,7 @@ const master_admins = [
 		personTitle : "Perry Beckett",
 		description : "Perry is a senior at American Heritage in Plantation Florida who is in his fourth year of debate. After working with PepTalk last year, he is looking forward to helping run the program as vice president! He has reached multiple bid rounds at large national tournaments, and is the captain of his school’s LD team. Some of his debate interests include Tricks, Framework debate, and Theory.",
 		region : "Southeast",
-        link : "https://www.facebook.com/profile.php?id=100020411771430",
+        link : "https://facebook.com/PerryBeckett02",
 
 	}
 ];
