@@ -11,23 +11,6 @@ class RegionButton extends c{
 		};
 	}
 
-	// Slideshow logic
-	cycle(){
-		var i = this.state.index + 1;
-		if (i >= this.props.people.length){
-			i = 0;
-		}
-		this.setState({
-			index : i
-		});
-		setTimeout(()=>this.cycle(), 2000);
-	}
-
-	// Once component is initalized, start the slideshow
-	componentDidMount(){
-		this.cycle();
-	}
-
 	// Render the regional buttons
 	render(){
 		const title = e("span", {
@@ -37,7 +20,7 @@ class RegionButton extends c{
 		const people = this.props.people.map((opt, i)=>{
 			return e(RegionPerson, {
 				path : opt.path,
-				display : i === this.state.index ? "block" : "none",
+				display : i === this.props.index ? "block" : "none",
 			});
 		});
 

@@ -15,14 +15,47 @@ class RegionalSection extends c{
 		super(props);
 		this.state = {
 			region : "",
+			people : regions.map((r)=>{return RegionalSection.getList(r);}),
+			indexes : Array(regions.length).fill().map((num,i)=>0),
 			sections : regions.map((r)=>{
 				return e(RegionButton, {
 					name : r,
 					people : RegionalSection.getList(r),
-					onClick : (e)=> this.onClick(r)
+					onClick : (e)=> this.onClick(r),
+					index : 0,
 				});
 			}),
 		}
+	}
+
+	componentDidMount(){
+		this.cycle();
+	}
+
+	// Slideshow logic
+	cycle(){
+		var arr = this.state.indexes.map(x=>x);
+		for (let i = 0; i < regions.length; i++){
+			var temp = this.state.indexes[i] + 1;
+			if (temp >= this.state.people[i].length){
+				temp = 0;
+			}
+			arr[i] = temp;
+		}
+
+		this.setState({
+			sections : regions.map((r, i)=>{
+				return e(RegionButton, {
+					name : r,
+					people : RegionalSection.getList(r),
+					onClick : (e)=> this.onClick(r),
+					index : arr[i],
+				});
+			}),
+			indexes : arr
+		});
+
+		setTimeout(()=>this.cycle(), 2000);
 	}
 
 	// When a region is clicked, set the region to be displayed to that region
