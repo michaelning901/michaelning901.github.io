@@ -332,14 +332,14 @@ const master_admins = [
 		personTitle : "Animesh Joshi",
 		description : "Animesh Joshi is a senior at WDM Valley High School and has eight career bids, going to the Tournament of Champions three times. After working with PepTalk the last two years, he is looking forward to running the program as co-president and acting as web developer! He's championed the Yale Invitational, Florida Blue Key, and the Iowa State Tournament (in PF!), while also reaching elimination rounds at Bronx, Apple Valley, the Glebrooks, Blake, Lexington, and Harvard. His debate interests include analytical philosophy, theory, and the occasional trick. He's very excited to continue mentoring this year!",
 		region : "Texas",
-        link : "https://www.google.com",
+        link : "https://www.facebook.com/animesh.joshi33690",
 	},
 	{
 		path : "assets/css/images/Evan.jpg",
 		personTitle : "Evan Li",
 		description : "Evan is a senior at Lexington High School in Massachusetts, going into his 4th year of debate. After working with PepTalk last year, he is looking forward to running the program as a co-president! His debate interests include theory and identity Kritiks, but he is open to teaching all kinds of debate. Thus far, Evan has received 5 bids to the Tournament of Champions and has championed various tournaments, including the Newark Invitational, Harrison Round Robin, and Massachusetts State Tournament while also reaching elimination rounds of Harvard, Princeton, UPenn, and Mid American Cup. His teaching experience includes tutoring multiple students at his high school and working at various debate camps for middle schoolers.",
 		region : "Northeast",
-        link : "https://www.google.com",
+        link : "https://www.facebook.com/evan.li.50767",
 
 	},
 	{
@@ -347,7 +347,7 @@ const master_admins = [
 		personTitle : "Perry Beckett",
 		description : "Perry is a senior at American Heritage in Plantation Florida who is in his fourth year of debate. After working with PepTalk last year, he is looking forward to helping run the program as vice president! He has reached multiple bid rounds at large national tournaments, and is the captain of his school’s LD team. Some of his debate interests include Tricks, Framework debate, and Theory.",
 		region : "Southeast",
-        link : "https://www.google.com",
+        link : "https://www.facebook.com/profile.php?id=100020411771430",
 
 	}
 ];
