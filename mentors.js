@@ -2,13 +2,13 @@ const master_mentors = [
 	{
 		path : "assets/css/images/Animesh.jpg",
 		personTitle : "Animesh Joshi, WDM Valley (IA)",
-		description : "Animesh Joshi is a senior at WDM Valley High School and has ten career bids, going to the Tournament of Champions three times. After working with PepTalk the last two years, he is looking forward to running the program as co-president and acting as web developer! He's championed the Yale Invitational, New York City Invivtational, Florida Blue Key, Valley Round Robin and the Iowa State Tournament (in PF and LD!), while also reaching elimination rounds at Apple Valley, the Glebrooks, Blake, Lexington, and Harvard. His debate interests include analytical philosophy, theory, and the occasional trick. He's very excited to continue mentoring this year!",
+		description : "Animesh Joshi is a senior at WDM Valley High School and has ten career bids, going to the Tournament of Champions three times. After working with PepTalk the last two years, he is looking forward to running the program as co-president and acting as web developer! He's championed the Yale Invitational, New York City Invivtational, Florida Blue Key, Valley Round Robin and the Iowa State Tournament (in PF and LD!), while also reaching elimination rounds at Apple Valley, the Glenbrooks, Blake, Lexington, and Harvard. His debate interests include analytical philosophy, theory, and the occasional trick. He's very excited to continue mentoring this year!",
 		region : "Midwest",
 	},
 	{
 		path : "assets/css/images/Evan.jpg",
 		personTitle : "Evan Li, Lexington (MA)",
-		description : "Evan is a senior at Lexington High School in Massachusetts, going into his 4th year of debate. After working with PepTalk last year, he is looking forward to running the program as a co-president! His debate interests include theory and identity Kritiks, but he is open to teaching all kinds of debate. Thus far, Evan has received 5 bids to the Tournament of Champions and has championed various tournaments, including the Newark Invitational, Harrison Round Robin, and Massachusetts State Tournament while also reaching elimination rounds of Harvard, Princeton, UPenn, and Mid American Cup. His teaching experience includes tutoring multiple students at his high school and working at various debate camps for middle schoolers.",
+		description : "Evan is a senior at Lexington High School, going into his 4th year of debate. After working with PepTalk as a mentor, he is looking forward to running the program as a co-president! Thus far, he has received seven bids to the Tournament of Champions and numerous speaker awards, including being 1st speaker at the 2019 New York City invitational. Evan is the MA 2019 state champion in Lincoln-Douglas, while also  reaching elimination rounds at Harvard, Princeton, UPenn, Mid America Cup, and more. His teaching experience includes tutoring many students at his high school and working at various debate camps for middle schoolers. Evan is open to teaching all kinds of debate.",
 		region : "Northeast",
 	},
 	{
@@ -286,7 +286,7 @@ const master_mentors = [
     {
 		path : "assets/css/images/PepTalk.jpg",
 		personTitle : "Christine Wang, Lexington (MA)",
-		description : "bio coming soon!",
+		description : "Christine Wang is a fourth-year debater and senior at Lexington High School. She has broken at tournaments such as Princeton, Pennsbury, and UPenn and has taught at Lexington Debate Institute. She also leads and teaches in her high school and middle school debate clubs. Her interests include kritikal and traditional debate. She looks forward to a great year working with PepTalk!",
 		region : "Northeast",
 	},
     {
@@ -320,7 +320,7 @@ const master_admins = [
 	{
 		path : "assets/css/images/Animesh.jpg",
 		personTitle : "Animesh Joshi",
-		description : "Animesh Joshi is a senior at WDM Valley High School and has ten career bids, going to the Tournament of Champions three times. After working with PepTalk the last two years, he is looking forward to running the program as co-president and acting as web developer! He's championed the Yale Invitational, New York City Invivtational, Florida Blue Key, Valley Round Robin and the Iowa State Tournament (in PF and LD!), while also reaching elimination rounds at Apple Valley, the Glebrooks, Blake, Lexington, and Harvard. His debate interests include analytical philosophy, theory, and the occasional trick. He's very excited to continue mentoring this year!",
+		description : "Animesh Joshi is a senior at WDM Valley High School and has ten career bids, going to the Tournament of Champions three times. After working with PepTalk the last two years, he is looking forward to running the program as co-president and acting as web developer! He's championed the Yale Invitational, New York City Invivtational, Florida Blue Key, Valley Round Robin and the Iowa State Tournament (in PF and LD!), while also reaching elimination rounds at Apple Valley, the Glenbrooks, Blake, Lexington, and Harvard. His debate interests include analytical philosophy, theory, and the occasional trick. He's very excited to continue mentoring this year!",
 		region : "Midwest",
         link : "https://www.facebook.com/animesh.joshi33690",
 	},
