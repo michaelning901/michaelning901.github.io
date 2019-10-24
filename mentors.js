@@ -2,7 +2,7 @@ const master_mentors = [
 	{
 		path : "assets/css/images/Animesh.jpg",
 		personTitle : "Animesh Joshi, WDM Valley (IA)",
-		description : "Animesh Joshi is a senior at WDM Valley High School and has eight career bids, going to the Tournament of Champions three times. After working with PepTalk the last two years, he is looking forward to running the program as co-president and acting as web developer! He's championed the Yale Invitational, Florida Blue Key, and the Iowa State Tournament (in PF!), while also reaching elimination rounds at Bronx, Apple Valley, the Glebrooks, Blake, Lexington, and Harvard. His debate interests include analytical philosophy, theory, and the occasional trick. He's very excited to continue mentoring this year!",
+		description : "Animesh Joshi is a senior at WDM Valley High School and has ten career bids, going to the Tournament of Champions three times. After working with PepTalk the last two years, he is looking forward to running the program as co-president and acting as web developer! He's championed the Yale Invitational, New York City Invivtational, Florida Blue Key, Valley Round Robin and the Iowa State Tournament (in PF and LD!), while also reaching elimination rounds at Apple Valley, the Glebrooks, Blake, Lexington, and Harvard. His debate interests include analytical philosophy, theory, and the occasional trick. He's very excited to continue mentoring this year!",
 		region : "Midwest",
 	},
 	{
@@ -149,12 +149,7 @@ const master_mentors = [
 		description : "Matthew is entering his fourth year of debate as a senior at Acton-Boxborough Regional High school, where he is one of the LD captains. His junior year, he qualified to the NCFL and NSDA national tournaments and bid to the TOC. He specializes in LARP and theory, and is excited to be working with PepTalk this year!",
 		region : "Northeast",
 	},
-      {
-		path : "assets/css/images/Elizabeth.jpg",
-		personTitle : "Elizabeth Lee, Bergen (NJ) ",
-		description : "Elizabeth is a senior at Bergen County Academies in New Jersey, where she is president of the national circuit debate team. Her debate interests include philosophy and critical literature. She's excited to work with mentees this year!",
-		region : "Northeast",
-	},
+      
     {
 		path : "assets/css/images/Angela.png",
 		personTitle : "Angela Zhong, Cypress Woods (TX) ",
@@ -260,7 +255,7 @@ const master_mentors = [
      {
 		path : "assets/css/images/Nikki.jpg",
 		personTitle : "Nikita Tangaturi, American Heritage (FL)",
-		description : "Nikita Tanguturi has been in debate for 6 years, debating at American Heritage Boca for the last 2 years, where she is currently a junior. She is the current president of the debate team, and was the event captain of ld last year. She has made it to the bubble round and broke at various toc bid tournaments, and broke at the Florida State tournament. As a debater she is primarily interested in kritikal debate, both identity based and postmodern. Her favorite authors include Baudrillard, Bataille, Freud, N’yongo, and Warren. She coaches younger students on her team as well as middle school students in her county and through w.in debate, and looks forward to mentoring for peptalk!",
+		description : "Nikita Tanguturi has been in debate for 6 years, debating at American Heritage Boca for the last 2 years, where they are currently a junior. They are the current president of the debate team, and was the event captain of ld last year. They have made it to the bubble round and broke at various toc bid tournaments, and broke at the Florida State tournament. As a debater they are primarily interested in kritikal debate, both identity based and postmodern. Their favorite authors include Baudrillard, Bataille, Freud, N’yongo, and Warren. They coach younger students on their team as well as middle school students in their county and through w.in debate, and looks forward to mentoring for peptalk!",
 		region : "Southeast",
 	},
      {
@@ -306,12 +301,7 @@ const master_mentors = [
 		description : "bio coming soon!",
 		region : "Texas",
 	},
-    {
-		path : "assets/css/images/PepTalk.jpg",
-		personTitle : "David Herrera, Strake Jesuit (TX)",
-		description : "bio coming soon!",
-		region : "Texas",
-	},
+    
     {
 		path : "assets/css/images/Madi.png",
 		personTitle : "Madi Crowley, Lake Highland (FL)",
@@ -330,8 +320,8 @@ const master_admins = [
 	{
 		path : "assets/css/images/Animesh.jpg",
 		personTitle : "Animesh Joshi",
-		description : "Animesh Joshi is a senior at WDM Valley High School and has eight career bids, going to the Tournament of Champions three times. After working with PepTalk the last two years, he is looking forward to running the program as co-president and acting as web developer! He's championed the Yale Invitational, Florida Blue Key, and the Iowa State Tournament (in PF!), while also reaching elimination rounds at Bronx, Apple Valley, the Glebrooks, Blake, Lexington, and Harvard. His debate interests include analytical philosophy, theory, and the occasional trick. He's very excited to continue mentoring this year!",
-		region : "Texas",
+		description : "Animesh Joshi is a senior at WDM Valley High School and has ten career bids, going to the Tournament of Champions three times. After working with PepTalk the last two years, he is looking forward to running the program as co-president and acting as web developer! He's championed the Yale Invitational, New York City Invivtational, Florida Blue Key, Valley Round Robin and the Iowa State Tournament (in PF and LD!), while also reaching elimination rounds at Apple Valley, the Glebrooks, Blake, Lexington, and Harvard. His debate interests include analytical philosophy, theory, and the occasional trick. He's very excited to continue mentoring this year!",
+		region : "Midwest",
         link : "https://www.facebook.com/animesh.joshi33690",
 	},
 	{
