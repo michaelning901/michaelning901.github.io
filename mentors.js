@@ -14,7 +14,7 @@ const master_mentors = [
 	{
 		path : "assets/css/images/Perry.jpg",
 		personTitle : "Perry Beckett, American Heritage (FL)",
-		description : "Perry is a senior at American Heritage school in Plantation Florida. He has been debating for 4 years, and enjoys volunteering and teaching younger students about the activity. Some of his debate accomplishments include reaching numerous bid rounds at national tournaments, winning Valley, and being invited to the Blue Key, Valley, and LHP Round Robins. His debate interests are primarily centered around tricks, philosophy, and theory debate. He is excited to help run Pep-Talk as the Vice President this year.
+		description : "Perry is a senior at American Heritage school in Plantation Florida. He has been debating for 4 years, and enjoys volunteering and teaching younger students about the activity. Some of his debate accomplishments include reaching numerous bid rounds at national tournaments, winning Valley, and being invited to the Blue Key, Valley, and LHP Round Robins. His debate interests are primarily centered around tricks, philosophy, and theory debate. He is excited to help run Pep-Talk as the Vice President this year."
 ",
 		region : "Southeast",
 	},
@@ -336,7 +336,7 @@ const master_admins = [
 	{
 		path : "assets/css/images/Perry.jpg",
 		personTitle : "Perry Beckett",
-		description : "Perry is a senior at American Heritage school in Plantation Florida. He has been debating for 4 years, and enjoys volunteering and teaching younger students about the activity. Some of his debate accomplishments include reaching numerous bid rounds at national tournaments, winning Valley, and being invited to the Blue Key, Valley, and LHP Round Robins. His debate interests are primarily centered around tricks, philosophy, and theory debate. He is excited to help run Pep-Talk as the Vice President this year.
+		description : "Perry is a senior at American Heritage school in Plantation Florida. He has been debating for 4 years, and enjoys volunteering and teaching younger students about the activity. Some of his debate accomplishments include reaching numerous bid rounds at national tournaments, winning Valley, and being invited to the Blue Key, Valley, and LHP Round Robins. His debate interests are primarily centered around tricks, philosophy, and theory debate. He is excited to help run Pep-Talk as the Vice President this year."
 ",
 		region : "Southeast",
         link : "https://facebook.com/PerryBeckett02",
