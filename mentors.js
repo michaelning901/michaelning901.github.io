@@ -327,7 +327,7 @@ const master_admins = [
 	{
 		path : "assets/css/images/Evan.jpg",
 		personTitle : "Evan Li",
-		description : "Evan is a senior at Lexington High School in Massachusetts, going into his 4th year of debate. After working with PepTalk last year, he is looking forward to running the program as a co-president! His debate interests include theory and identity Kritiks, but he is open to teaching all kinds of debate. Thus far, Evan has received 5 bids to the Tournament of Champions and has championed various tournaments, including the Newark Invitational, Harrison Round Robin, and Massachusetts State Tournament while also reaching elimination rounds of Harvard, Princeton, UPenn, and Mid American Cup. His teaching experience includes tutoring multiple students at his high school and working at various debate camps for middle schoolers.",
+		description : "Evan is a senior at Lexington High School, going into his 4th year of debate. After working with PepTalk as a mentor, he is looking forward to running the program as a co-president! Thus far, he has received seven bids to the Tournament of Champions and numerous speaker awards, including being 1st speaker at the 2019 New York City invitational. Evan is the MA 2019 state champion in Lincoln-Douglas, while also  reaching elimination rounds at Harvard, Princeton, UPenn, Mid America Cup, and more. His teaching experience includes tutoring many students at his high school and working at various debate camps for middle schoolers. Evan is open to teaching all kinds of debate.",
 		region : "Northeast",
         link : "https://www.facebook.com/evan.li.50767",
 
