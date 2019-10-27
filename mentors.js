@@ -297,9 +297,9 @@ const master_mentors = [
 		region : "Southeast",
 	},
     {
-		path : "assets/css/images/PepTalk.jpg",
+		path : "assets/css/images/David2.png",
 		personTitle : "David Herrera, Strake Jesuit (TX)",
-		description : "bio coming soon!",
+		description : "David is a junior at Strake Jesuit. His sophomore year, he broke a multiple Texas bid tournaments like UT and UH, as well as championing local tournaments in the Houston circuit. His junior year, he received a bid to the toc at the St. Marks tournament, and championed several local tournaments qualifying him TFA for the second time. His teaching experience includes helping to teach novices at Strake as well as working at multiple debate camps for middle-schoolers. His debate interests include kritikal literature and policy arguments. He’s excited to help out as a mentor for PepTalk this year!",
 		region : "Texas",
 	},
     
