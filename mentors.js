@@ -278,9 +278,9 @@ const master_mentors = [
 		region : "Northeast",
 	},
     {
-		path : "assets/css/images/PepTalk.jpg",
+		path : "assets/css/images/Nevin.jpg",
 		personTitle : "Nevin Gera, McMillen (TX)",
-		description : "bio coming soon!",
+		description : "Nevin Gera is a junior at Plano East Senior High School. He has acquired three career bids and made it to the bid round at all but one bid tournament he’s attended since he was a sophomore. He specializes in util and theory debate, but is interested in normative philosophy and understands the basic tenets of most core LD frameworks.",
 		region : "Texas",
 	},
     {
