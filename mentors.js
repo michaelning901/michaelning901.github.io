@@ -14,7 +14,7 @@ const master_mentors = [
 	{
 		path : "assets/css/images/Perry.jpg",
 		personTitle : "Perry Beckett, American Heritage (FL)",
-		description : "Perry is a senior at American Heritage in Plantation Florida who is in his fourth year of debate. After working with PepTalk last year, he is looking forward to helping run the program as vice president! He has reached multiple bid rounds at large national tournaments, and is the captain of his school’s LD team. Some of his debate interests include Tricks, Framework debate, and Theory.",
+		description : "Perry is a senior at American Heritage school in Plantation Florida. He has been debating for 4 years, and enjoys volunteering and teaching younger students about the activity. Some of his debate accomplishments include reaching numerous bid rounds at national tournaments, winning Valley, and being invited to the Blue Key, Valley, and LHP Round Robins. His debate interests are primarily centered around tricks, philosophy, and theory debate. He is excited to help run Pep-Talk as the Vice President this year.",
 		region : "Southeast",
 	},
 	{
@@ -278,9 +278,9 @@ const master_mentors = [
 		region : "Northeast",
 	},
     {
-		path : "assets/css/images/PepTalk.jpg",
+		path : "assets/css/images/Nevin.jpg",
 		personTitle : "Nevin Gera, McMillen (TX)",
-		description : "bio coming soon!",
+		description : "Nevin Gera is a junior at Plano East Senior High School. He has acquired three career bids and made it to the bid round at all but one bid tournament he’s attended since he was a sophomore. He specializes in util and theory debate, but is interested in normative philosophy and understands the basic tenets of most core LD frameworks.",
 		region : "Texas",
 	},
     {
@@ -296,9 +296,9 @@ const master_mentors = [
 		region : "Southeast",
 	},
     {
-		path : "assets/css/images/PepTalk.jpg",
+		path : "assets/css/images/David2.png",
 		personTitle : "David Herrera, Strake Jesuit (TX)",
-		description : "bio coming soon!",
+		description : "David is a junior at Strake Jesuit. His sophomore year, he broke a multiple Texas bid tournaments like UT and UH, as well as championing local tournaments in the Houston circuit. His junior year, he received a bid to the toc at the St. Marks tournament, and championed several local tournaments qualifying him TFA for the second time. His teaching experience includes helping to teach novices at Strake as well as working at multiple debate camps for middle-schoolers. His debate interests include kritikal literature and policy arguments. He’s excited to help out as a mentor for PepTalk this year!",
 		region : "Texas",
 	},
     
@@ -327,7 +327,7 @@ const master_admins = [
 	{
 		path : "assets/css/images/Evan.jpg",
 		personTitle : "Evan Li",
-		description : "Evan is a senior at Lexington High School in Massachusetts, going into his 4th year of debate. After working with PepTalk last year, he is looking forward to running the program as a co-president! His debate interests include theory and identity Kritiks, but he is open to teaching all kinds of debate. Thus far, Evan has received 5 bids to the Tournament of Champions and has championed various tournaments, including the Newark Invitational, Harrison Round Robin, and Massachusetts State Tournament while also reaching elimination rounds of Harvard, Princeton, UPenn, and Mid American Cup. His teaching experience includes tutoring multiple students at his high school and working at various debate camps for middle schoolers.",
+		description : "Evan is a senior at Lexington High School, going into his 4th year of debate. After working with PepTalk as a mentor, he is looking forward to running the program as a co-president! Thus far, he has received seven bids to the Tournament of Champions and numerous speaker awards, including being 1st speaker at the 2019 New York City invitational. Evan is the MA 2019 state champion in Lincoln-Douglas, while also  reaching elimination rounds at Harvard, Princeton, UPenn, Mid America Cup, and more. His teaching experience includes tutoring many students at his high school and working at various debate camps for middle schoolers. Evan is open to teaching all kinds of debate.",
 		region : "Northeast",
         link : "https://www.facebook.com/evan.li.50767",
 
@@ -335,7 +335,7 @@ const master_admins = [
 	{
 		path : "assets/css/images/Perry.jpg",
 		personTitle : "Perry Beckett",
-		description : "Perry is a senior at American Heritage in Plantation Florida who is in his fourth year of debate. After working with PepTalk last year, he is looking forward to helping run the program as vice president! He has reached multiple bid rounds at large national tournaments, and is the captain of his school’s LD team. Some of his debate interests include Tricks, Framework debate, and Theory.",
+		description : "Perry is a senior at American Heritage school in Plantation Florida. He has been debating for 4 years, and enjoys volunteering and teaching younger students about the activity. Some of his debate accomplishments include reaching numerous bid rounds at national tournaments, winning Valley, and being invited to the Blue Key, Valley, and LHP Round Robins. His debate interests are primarily centered around tricks, philosophy, and theory debate. He is excited to help run Pep-Talk as the Vice President this year.",
 		region : "Southeast",
         link : "https://facebook.com/PerryBeckett02",
 
