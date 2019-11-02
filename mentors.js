@@ -283,13 +283,12 @@ const master_mentors = [
 		description : "Nevin Gera is a junior at Plano East Senior High School. He has acquired three career bids and made it to the bid round at all but one bid tournament he’s attended since he was a sophomore. He specializes in util and theory debate, but is interested in normative philosophy and understands the basic tenets of most core LD frameworks.",
 		region : "Texas",
 	},
-   /*{
+    {
 		path : "assets/css/images/PepTalk.jpg",
 		personTitle : "Christine Wang, Lexington (MA)",
 		description : "Christine Wang is a fourth-year debater and senior at Lexington High School. She has broken at tournaments such as Princeton, Pennsbury, and UPenn and has taught at Lexington Debate Institute. She also leads and teaches in her high school and middle school debate clubs. Her interests include kritikal and traditional debate. She looks forward to a great year working with PepTalk!",
 		region : "Northeast",
 	},
-    */ 
     {
 		path : "assets/css/images/Arjan.jpg",
 		personTitle : "Arjan Kang, King (FL)",
