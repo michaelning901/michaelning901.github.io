@@ -315,6 +315,13 @@ const master_mentors = [
 		description : "Adnan is a senior and President of the Speech and Debate team at The Village School and is entering his 4th year of debate. He has reached out rounds at tournaments such as TFA state, University of Texas Longhorn Classic, and Colleyville. His debate interests include policy arguments, T/theory, and anti-blackness.",
 		region : "Texas",
 	},
+    
+    {
+		path : "assets/css/images/Zac.jpg",
+		personTitle : "Zac Davis, Quarry Lane (CA)",
+		description : "Zac Davis is a debater from Quarry Lane School who loves teaching and giving younger debaters access to opportunities. Zac values the scholastic value of debate and encourages debaters to become authors and methodological activists both inside and outside of debate rounds. Zac emphasizes diverse and creative argumentation, and an increased communal prioritization and student awareness of the implications of community practices then the competitive nature of debate as an activity. Even if you aren't Zac's mentee, don't hesitate to reach out to Zac if you have questions about debate or need a friend in the debate community.",
+		region : "West",
+	},
 ]
 
 const master_admins = [
